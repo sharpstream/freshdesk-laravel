@@ -1,5 +1,5 @@
 {
-    "name": "mpclarkson/freshdesk-laravel",
+    "name": "sharpstream/freshdesk-laravel",
     "description": "Laravel package for the Freshdesk API (v2)",
     "keywords": ["freshdesk", "customer service", "support", "help desk", "api", "laravel"],
     "type": "laravel-package",
